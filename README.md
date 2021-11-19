@@ -1,1 +1,1 @@
-Pr ctica metro de Atenas (ver enunciado)
+Práctica metro de Atenas (ver enunciado)
